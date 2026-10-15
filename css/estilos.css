@@ -1,0 +1,16 @@
+.oculto{
+    display: none;
+}
+
+.flotarderecha{
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 2;
+}
+
+.flotarderecha button {
+    background: hsla(263, 100%, 70%, 0.247);
+    border-radius:0.5em;
+    padding: 0.5em;
+}
