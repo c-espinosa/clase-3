@@ -10,7 +10,7 @@
 }
 
 .flotarderecha button {
-    background: hsla(263, 100%, 70%, 0.247);
+    background: transparent;
     border-radius:0.5em;
     padding: 0.5em;
 }
